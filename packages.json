@@ -1,10 +1,10 @@
 [
+    {
+    "package": "lidarHD",
+    "url": "https://forge.inrae.fr/lidar/lidarHD.git"
+  },
   {
     "package": "datalift",
     "url": "https://forge.inrae.fr/fabrice.vinatier/datalift.git"
-  },
-  {
-    "package": "lidarHD",
-    "url": "https://forge.inrae.fr/lidar/lidarHD.git"
   }
 ]
