@@ -1,14 +1,14 @@
 [
-  "datalift": {
-    "Package": "datalift",
-    "URL": "https://forge.inrae.fr/fabrice.vinatier/datalift.git"
+  {
+    "package": "datalift",
+    "url": "https://forge.inrae.fr/fabrice.vinatier/datalift.git"
   },
-  "lidarHD": {
-    "Package": "lidarHD",
-    "URL": "https://forge.inrae.fr/lidar/lidarHD.git"
+  {
+    "package": "lidarHD",
+    "url": "https://forge.inrae.fr/lidar/lidarHD.git"
   },
-  "RADIS": {
-    "Package": "RADIS",
-    "URL": "https://inrae.r-universe.dev"
+  {
+    "package": "RADIS",
+    "url": "https://github.com/inrae/RADIS"
   }
 ]
