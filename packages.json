@@ -5,7 +5,7 @@
   },
   {
     "package": "RADIS",
-    "url": "https://github.com/inrae/RADIS"
+    "url": "https://forge.inrae.fr/umr-g-eau/radis.git"
   },
     {
     "package": "datalift",
